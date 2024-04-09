@@ -1,0 +1,13 @@
+services:  
+  - type: web
+    name: elysiajs-hello-world
+    runtime: node
+    repo: https://github.com/render-examples/elysiajs-hello-world
+    plan: free
+    envVars:
+    - key: BUN_VERSION
+      value: 1.1.0
+    region: oregon
+    buildCommand: bun install
+    startCommand: bun start
+version: "1"
