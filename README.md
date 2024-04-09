@@ -1,7 +1,7 @@
 # elysiajs-hello-world
 This is the [ElysiaJS](https://elysiajs.com/) [Hello World](https://elysiajs.com/quick-start.html#automatic-installation) example on [Render](https://render.com).
 
-Elysia is a web framework for building backend servers with [Bun.js](https://bun.sh/). 
+Elysia is a web framework for building backend servers with [Bun](https://bun.sh/). 
 
 ## Development
 
