@@ -17,4 +17,4 @@ Open http://localhost:3000/ with your browser to see the result.
 
 ## Deploy to Render
 
-See the Bun quickstart guide for full details.
+See the [ElysiaJS quickstart guide](https://docs.render.com/deploy-elysiajs) for full details.
