@@ -19,3 +19,6 @@ Open http://localhost:3000/ with your browser to see the result.
 ## Deploy to Render
 
 See the [ElysiaJS quickstart guide](https://docs.render.com/deploy-elysiajs) for full details.
+
+Notes:
+* The `render.yaml` file in this repository sets the `BUN_VERSION` environment variable to demonstrate [how to set the Bun version](https://docs.render.com/bun-version) on Render. Feel free to adjust this version as you wish.
